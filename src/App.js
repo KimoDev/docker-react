@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React running in Docker
+          React running in Docker v3!
         </a>
       </header>
     </div>
