@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://cdn.discordapp.com/emojis/722657884537618472.png?v=1"
           target="_blank"
           rel="noopener noreferrer"
         >
