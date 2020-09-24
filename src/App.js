@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://cdn.discordapp.com/emojis/722657884537618472.png?v=1" className="App-logo" alt="logo" />
+        <img src="https://cdn.discordapp.com/emojis/691075417431605249.png?v=1" className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
